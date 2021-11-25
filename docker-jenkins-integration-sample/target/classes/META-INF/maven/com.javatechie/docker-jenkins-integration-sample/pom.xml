@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 	<build>
-	<finalName>docker-jenkins-integration-sample</finalName>
+	<finalName>docker-jenkins-integration-sample1</finalName>
 	</build>
   <name>docker-jenkins-integration-sample</name>
   <url>http://maven.apache.org</url>
